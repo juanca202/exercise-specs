@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "ado-bay-jua": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@azure-devops/mcp",
+        "BayteqDev",
+        "--authentication",
+        "pat"
+      ],
+      "env": {
+        "PERSONAL_ACCESS_TOKEN": "${env:ADO_PAT_BAYTEQ_JUANCA_ALTAMIRANO}"
+      }
+    }
+  }
+}
