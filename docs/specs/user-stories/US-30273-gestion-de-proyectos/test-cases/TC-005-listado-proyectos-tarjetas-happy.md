@@ -3,7 +3,7 @@
 Tipo: Happy Path
 Prioridad: Alta
 Criterio de aceptación: AC-003 (Interacción de usuario) — Listado de Proyectos en tarjetas con Nombre, Descripción y Tiempo Registrado, conforme al prototipo
-Artefacto padre: US-002
+Artefacto padre: US-30273
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08

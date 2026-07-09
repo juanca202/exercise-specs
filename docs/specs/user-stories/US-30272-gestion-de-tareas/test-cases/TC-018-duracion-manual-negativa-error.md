@@ -3,7 +3,7 @@
 Tipo: Error
 Prioridad: Alta
 Criterio de aceptación: AC-011 (Reglas de negocio) — Validar Duración manual mayor que cero
-Artefacto padre: US-001
+Artefacto padre: US-30272
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08

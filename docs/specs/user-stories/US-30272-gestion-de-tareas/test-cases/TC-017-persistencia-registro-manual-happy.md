@@ -3,7 +3,7 @@
 Tipo: Happy Path
 Prioridad: Alta
 Criterio de aceptación: AC-010 (Procesamiento de datos) — Persistencia del Registro de Tiempo manual
-Artefacto padre: US-001
+Artefacto padre: US-30272
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08

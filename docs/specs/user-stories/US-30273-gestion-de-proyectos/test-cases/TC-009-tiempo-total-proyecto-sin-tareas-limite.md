@@ -3,7 +3,7 @@
 Tipo: Límite
 Prioridad: Media
 Criterio de aceptación: AC-005 (Salidas del sistema) — Cálculo y visualización del tiempo total registrado por Proyecto como suma de los tiempos de sus Tareas
-Artefacto padre: US-002
+Artefacto padre: US-30273
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08

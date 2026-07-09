@@ -3,7 +3,7 @@
 Tipo: Happy Path
 Prioridad: Media
 Criterio de aceptación: AC-007 (Eficiencia de rendimiento) — Carga del historial en menos de 2 segundos hasta 1000 registros
-Artefacto padre: US-003
+Artefacto padre: US-30274
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08

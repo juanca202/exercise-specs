@@ -3,7 +3,7 @@
 Tipo: Happy Path
 Prioridad: Alta
 Criterio de aceptación: AC-002 (Procesamiento de datos) — Almacenamiento de los datos del Proyecto en el almacenamiento local del dispositivo
-Artefacto padre: US-002
+Artefacto padre: US-30273
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08

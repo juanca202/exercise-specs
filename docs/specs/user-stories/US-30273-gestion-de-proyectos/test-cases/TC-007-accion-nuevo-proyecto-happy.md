@@ -3,7 +3,7 @@
 Tipo: Happy Path
 Prioridad: Alta
 Criterio de aceptación: AC-004 (Interacción de usuario) — Acción visible para iniciar la creación de un Proyecto
-Artefacto padre: US-002
+Artefacto padre: US-30273
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08

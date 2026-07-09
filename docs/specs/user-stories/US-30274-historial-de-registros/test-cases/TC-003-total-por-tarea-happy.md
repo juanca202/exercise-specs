@@ -3,7 +3,7 @@
 Tipo: Happy Path
 Prioridad: Media
 Criterio de aceptación: AC-002 (Salidas del sistema) — Total de tiempo acumulado por Tarea
-Artefacto padre: US-003
+Artefacto padre: US-30274
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08

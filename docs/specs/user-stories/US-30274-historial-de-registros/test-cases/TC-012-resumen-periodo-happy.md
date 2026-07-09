@@ -3,7 +3,7 @@
 Tipo: Happy Path
 Prioridad: Media
 Criterio de aceptación: AC-006 (Interacción de usuario) — Resumen del periodo seleccionado
-Artefacto padre: US-003
+Artefacto padre: US-30274
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08

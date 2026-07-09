@@ -3,7 +3,7 @@
 Tipo: Error
 Prioridad: Alta
 Criterio de aceptación: AC-001 (Casos de uso) — Creación de Proyecto con Nombre obligatorio y Descripción opcional
-Artefacto padre: US-002
+Artefacto padre: US-30273
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08

@@ -3,7 +3,7 @@
 Tipo: Happy Path
 Prioridad: Alta
 Criterio de aceptación: AC-005 (Reglas de negocio) — Único temporizador activo a la vez
-Artefacto padre: US-001
+Artefacto padre: US-30272
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08

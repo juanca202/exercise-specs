@@ -3,7 +3,7 @@
 Tipo: Límite
 Prioridad: Baja
 Criterio de aceptación: AC-005 (Interacción de usuario) — Listado de cada Registro de Tiempo conforme al prototipo de alta fidelidad
-Artefacto padre: US-003
+Artefacto padre: US-30274
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08

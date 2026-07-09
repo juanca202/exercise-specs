@@ -3,7 +3,7 @@
 Tipo: Límite
 Prioridad: Media
 Criterio de aceptación: AC-001 (Casos de uso) — Lectura y visualización del historial de Registros de Tiempo
-Artefacto padre: US-003
+Artefacto padre: US-30274
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08

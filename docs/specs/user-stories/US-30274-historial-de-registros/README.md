@@ -3,6 +3,7 @@
 Estado: Ready
 Fecha de creación: 2026-07-08
 Última actualización: 2026-07-08
+ADO Work Item: [AB#30274](https://dev.azure.com/BayteqDev/Bayteq%20IA/_workitems/edit/30274)
 
 ## Descripción
 

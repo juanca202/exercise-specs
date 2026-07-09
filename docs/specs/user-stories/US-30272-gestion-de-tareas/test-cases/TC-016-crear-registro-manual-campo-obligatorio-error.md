@@ -3,7 +3,7 @@
 Tipo: Error
 Prioridad: Alta
 Criterio de aceptación: AC-009 (Casos de uso) — Crear Registro de Tiempo manual
-Artefacto padre: US-001
+Artefacto padre: US-30272
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08

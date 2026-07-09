@@ -3,7 +3,7 @@
 Tipo: Happy Path
 Prioridad: Media
 Criterio de aceptación: AC-013 (Eficiencia de rendimiento) — Detención del temporizador y persistencia en menos de 1 segundo
-Artefacto padre: US-001
+Artefacto padre: US-30272
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08
