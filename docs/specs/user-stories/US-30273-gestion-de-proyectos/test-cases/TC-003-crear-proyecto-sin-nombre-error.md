@@ -1,4 +1,4 @@
-# TC-003 — Intento de creación de Proyecto sin Nombre
+# TC-003 — Dado que el usuario está en la sección "Proyectos", Cuando intenta crear un Proyecto dejando el campo Nombre vacío, Entonces el sistema rechaza la creación y muestra un error indicando que el Nombre es obligatorio
 
 Tipo: Error
 Prioridad: Alta
@@ -7,10 +7,6 @@ Artefacto padre: US-30273
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08
-
-## Objetivo
-
-Validar que el sistema impide crear un Proyecto cuando el campo Nombre, obligatorio, se deja vacío.
 
 ## Precondiciones
 

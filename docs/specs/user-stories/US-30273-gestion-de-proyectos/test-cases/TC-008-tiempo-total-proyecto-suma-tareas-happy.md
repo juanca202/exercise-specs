@@ -1,4 +1,4 @@
-# TC-008 — Cálculo del tiempo total del Proyecto como suma de tiempos de sus Tareas
+# TC-008 — Dado que el Proyecto "Rediseño Web" tiene dos Tareas con tiempos registrados de 2h 00m y 1h 30m, Cuando el sistema calcula el tiempo total del Proyecto, Entonces la tarjeta muestra un Tiempo Registrado de 3h 30m
 
 Tipo: Happy Path
 Prioridad: Alta
@@ -7,10 +7,6 @@ Artefacto padre: US-30273
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08
-
-## Objetivo
-
-Validar que el sistema calcula correctamente el tiempo total de un Proyecto sumando los tiempos registrados de todas sus Tareas, y que ese valor se refleja en la interfaz.
 
 ## Precondiciones
 

@@ -1,4 +1,4 @@
-# TC-009 — Tiempo total del Proyecto sin Tareas registradas (valor cero)
+# TC-009 — Dado que el Proyecto "Consultoría Interna" no tiene Tareas asociadas, Cuando el sistema calcula el tiempo total del Proyecto, Entonces la tarjeta muestra un Tiempo Registrado de 0h 00m sin errores
 
 Tipo: Límite
 Prioridad: Media
@@ -7,10 +7,6 @@ Artefacto padre: US-30273
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08
-
-## Objetivo
-
-Validar el caso límite en que un Proyecto no tiene Tareas (o sus Tareas no tienen Registros de Tiempo), verificando que el tiempo total calculado y mostrado sea cero.
 
 ## Precondiciones
 

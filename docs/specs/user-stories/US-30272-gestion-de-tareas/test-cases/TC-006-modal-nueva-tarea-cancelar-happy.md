@@ -1,4 +1,4 @@
-# TC-006 — Cancelar el modal "Nueva Tarea" sin persistir cambios
+# TC-006 — Dado que el modal "Nueva Tarea" está abierto con Proyecto y Nombre completados, Cuando el usuario hace clic en "Cancelar", Entonces el modal se cierra sin crear ni persistir ninguna Tarea
 
 Tipo: Happy Path
 Prioridad: Media
@@ -7,10 +7,6 @@ Artefacto padre: US-30272
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08
-
-## Objetivo
-
-Validar que la acción "Cancelar" del modal "Nueva Tarea" cierra el modal sin crear ni persistir ninguna Tarea, conforme a las acciones definidas en el prototipo de alta fidelidad.
 
 ## Precondiciones
 

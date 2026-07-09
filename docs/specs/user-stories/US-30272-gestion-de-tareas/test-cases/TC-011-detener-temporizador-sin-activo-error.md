@@ -1,4 +1,4 @@
-# TC-011 — Intentar detener un temporizador cuando no hay ninguno activo
+# TC-011 — Dado que no hay ningún temporizador activo en la aplicación, Cuando el usuario observa el panel de Tareas, Entonces no se muestra la acción "Detener Sesión" disponible y no se genera ningún Registro de Tiempo
 
 Tipo: Error
 Prioridad: Media
@@ -7,10 +7,6 @@ Artefacto padre: US-30272
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08
-
-## Objetivo
-
-Validar que el sistema maneja de forma controlada la ausencia de un temporizador activo cuando no existe ninguna sesión en ejecución para detener.
 
 ## Precondiciones
 

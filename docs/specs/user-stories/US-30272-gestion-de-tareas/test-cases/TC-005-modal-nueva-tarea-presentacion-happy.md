@@ -1,4 +1,4 @@
-# TC-005 — Presentación del modal "Nueva Tarea" con campos y acciones conforme al prototipo
+# TC-005 — Dado que el usuario está en la pantalla "Tareas" y existe un Proyecto creado, Cuando abre el modal "Nueva Tarea", Entonces se presentan los campos Proyecto y Nombre junto con las acciones "Cancelar" y "Crear Tarea" conforme al prototipo
 
 Tipo: Happy Path
 Prioridad: Media
@@ -7,10 +7,6 @@ Artefacto padre: US-30272
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08
-
-## Objetivo
-
-Validar que la interfaz presenta el modal "Nueva Tarea" con los campos Proyecto y Nombre, y las acciones "Cancelar" / "Crear Tarea", conforme al prototipo de alta fidelidad.
 
 ## Precondiciones
 

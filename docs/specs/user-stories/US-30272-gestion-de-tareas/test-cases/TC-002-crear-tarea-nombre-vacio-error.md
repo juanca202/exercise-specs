@@ -1,4 +1,4 @@
-# TC-002 — Intentar crear tarea sin ingresar un nombre
+# TC-002 — Dado que el modal "Nueva Tarea" está abierto con un Proyecto seleccionado y el campo Nombre vacío, Cuando el usuario hace clic en "Crear Tarea", Entonces el sistema no crea la Tarea y el modal permanece abierto
 
 Tipo: Error
 Prioridad: Alta
@@ -7,10 +7,6 @@ Artefacto padre: US-30272
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08
-
-## Objetivo
-
-Validar que el sistema no permite crear una Tarea cuando el campo obligatorio Nombre queda vacío.
 
 ## Precondiciones
 

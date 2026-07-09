@@ -1,4 +1,4 @@
-# TC-002 — Creación de Proyecto solo con Nombre (Descripción omitida)
+# TC-002 — Dado que el usuario está en la sección "Proyectos", Cuando crea un nuevo Proyecto ingresando solo el Nombre y dejando la Descripción vacía, Entonces el Proyecto queda creado y visible en el listado sin Descripción
 
 Tipo: Happy Path
 Prioridad: Alta
@@ -7,10 +7,6 @@ Artefacto padre: US-30273
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08
-
-## Objetivo
-
-Validar que el sistema permite crear un Proyecto dejando la Descripción vacía, confirmando que dicho campo es realmente opcional.
 
 ## Precondiciones
 

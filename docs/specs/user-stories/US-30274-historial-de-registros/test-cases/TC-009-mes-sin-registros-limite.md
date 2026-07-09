@@ -1,4 +1,4 @@
-# TC-009 — Navegación a un mes sin Registros de Tiempo
+# TC-009 — Dado que el mes calendario anterior no tiene Registros de Tiempo, Cuando el usuario navega a ese mes, Entonces el sistema muestra la lista vacía y el total acumulado en "0h" sin errores
 
 Tipo: Límite
 Prioridad: Media
@@ -7,10 +7,6 @@ Artefacto padre: US-30274
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08
-
-## Objetivo
-
-Validar el caso límite de navegar a un mes calendario que no tiene ningún Registro de Tiempo asociado, para confirmar que el sistema muestra el periodo vacío con total en cero en lugar de fallar o mostrar datos de otro mes.
 
 ## Precondiciones
 

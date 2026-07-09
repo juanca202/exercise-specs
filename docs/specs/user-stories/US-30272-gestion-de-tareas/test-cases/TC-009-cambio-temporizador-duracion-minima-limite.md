@@ -1,4 +1,4 @@
-# TC-009 — Cambio inmediato de temporizador con duración mínima registrada para la tarea detenida automáticamente
+# TC-009 — Dado que el temporizador de "Diseñar wireframes" se inició hace apenas segundos, Cuando el usuario inicia inmediatamente el temporizador de "Revisar backlog", Entonces se guarda un Registro de Tiempo válido con Duración mínima mayor que cero para "Diseñar wireframes" y "Revisar backlog" queda activo
 
 Tipo: Límite
 Prioridad: Media
@@ -7,10 +7,6 @@ Artefacto padre: US-30272
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08
-
-## Objetivo
-
-Validar el comportamiento del sistema (BR-02 en combinación con BR-03) cuando el usuario cambia de temporizador casi inmediatamente después de iniciarlo, generando una Duración mínima (pero mayor que cero) para el Registro de Tiempo detenido automáticamente.
 
 ## Precondiciones
 

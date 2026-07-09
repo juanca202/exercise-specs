@@ -1,4 +1,4 @@
-# TC-013 — Detener el temporizador con duración calculada igual a cero (BR-03)
+# TC-013 — Dado que el temporizador de "Diseñar wireframes" se detiene en el mismo instante de su Hora Inicio, Cuando el sistema calcula una Duración igual a cero, Entonces no persiste ningún Registro de Tiempo, en cumplimiento de BR-03
 
 Tipo: Error
 Prioridad: Alta
@@ -7,10 +7,6 @@ Artefacto padre: US-30272
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08
-
-## Objetivo
-
-Validar que, en cumplimiento de BR-03, el sistema no acepta un Registro de Tiempo por temporizador cuya Duración calculada sea igual a cero.
 
 ## Precondiciones
 

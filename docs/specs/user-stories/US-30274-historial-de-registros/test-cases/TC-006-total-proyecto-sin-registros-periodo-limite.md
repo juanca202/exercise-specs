@@ -1,4 +1,4 @@
-# TC-006 — Total acumulado de un Proyecto sin Registros dentro del periodo seleccionado
+# TC-006 — Dado que el Proyecto "App Móvil" no tiene Registros de Tiempo dentro del periodo seleccionado, Cuando el sistema calcula su total acumulado para ese periodo, Entonces muestra "0h" sin afectar a los demás Proyectos
 
 Tipo: Límite
 Prioridad: Baja
@@ -7,10 +7,6 @@ Artefacto padre: US-30274
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08
-
-## Objetivo
-
-Validar el caso límite de un Proyecto que tiene Registros de Tiempo en otros meses pero ninguno dentro del periodo actualmente seleccionado, para confirmar que su total en ese periodo se muestra como cero.
 
 ## Precondiciones
 

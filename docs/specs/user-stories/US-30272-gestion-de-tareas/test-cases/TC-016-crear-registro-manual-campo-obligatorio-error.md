@@ -1,4 +1,4 @@
-# TC-016 — Intentar guardar un Registro de Tiempo manual con un campo obligatorio faltante
+# TC-016 — Dado que el formulario "Entrada Manual" está abierto con el campo Fecha sin completar, Cuando el usuario hace clic en "Guardar Registro", Entonces el sistema no crea el Registro de Tiempo y el formulario permanece abierto
 
 Tipo: Error
 Prioridad: Alta
@@ -7,10 +7,6 @@ Artefacto padre: US-30272
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08
-
-## Objetivo
-
-Validar que el sistema no permite guardar un Registro de Tiempo manual cuando falta un campo obligatorio del formulario "Entrada Manual" (Fecha, Proyecto/Tarea o Duración).
 
 ## Precondiciones
 

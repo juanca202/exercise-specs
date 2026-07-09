@@ -1,4 +1,4 @@
-# TC-004 — Persistencia de la tarea y su asociación al proyecto en almacenamiento local
+# TC-004 — Dado que existe una Tarea creada y asociada a un Proyecto, Cuando se recarga la aplicación, Entonces la Tarea persiste en el almacenamiento local y sigue asociada al Proyecto
 
 Tipo: Happy Path
 Prioridad: Alta
@@ -7,10 +7,6 @@ Artefacto padre: US-30272
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08
-
-## Objetivo
-
-Validar que los datos de una Tarea creada, incluyendo su asociación al Proyecto, quedan almacenados en el almacenamiento local del dispositivo y persisten tras recargar la aplicación.
 
 ## Precondiciones
 

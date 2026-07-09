@@ -1,4 +1,4 @@
-# TC-011 — Listado de un Registro de Tiempo con la Duración mínima válida
+# TC-011 — Dado un Registro de Tiempo con Duración mínima válida de 1 minuto, Cuando el sistema lo renderiza en el listado, Entonces se muestra con un formato de Duración legible sin errores de visualización
 
 Tipo: Límite
 Prioridad: Baja
@@ -7,10 +7,6 @@ Artefacto padre: US-30274
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08
-
-## Objetivo
-
-Validar que un Registro de Tiempo con la Duración mínima permitida por el sistema (mayor que cero, conforme a la restricción de la SRS de no admitir duraciones menores o iguales a cero) se lista correctamente con sus cuatro campos, sin errores de formato.
 
 ## Precondiciones
 

@@ -1,4 +1,4 @@
-# TC-007 — Iniciar un temporizador para una tarea específica desde el panel de Tareas
+# TC-007 — Dado que existe la Tarea "Diseñar wireframes" sin ningún temporizador activo, Cuando el usuario inicia el temporizador sobre esa Tarea, Entonces el panel de Tareas muestra el temporizador en estado "En Ejecución"
 
 Tipo: Happy Path
 Prioridad: Alta
@@ -7,10 +7,6 @@ Artefacto padre: US-30272
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08
-
-## Objetivo
-
-Validar que el usuario puede iniciar un temporizador para una Tarea específica desde el panel de Tareas cuando no hay ningún otro temporizador activo.
 
 ## Precondiciones
 

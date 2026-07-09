@@ -1,4 +1,4 @@
-# TC-014 — Carga del historial en menos de 2 segundos con un volumen pequeño de registros
+# TC-014 — Dado que existen 50 Registros de Tiempo en el almacenamiento local, Cuando el usuario navega a la sección de Historial, Entonces el sistema carga y muestra el historial completo en menos de 2 segundos
 
 Tipo: Happy Path
 Prioridad: Media
@@ -7,10 +7,6 @@ Artefacto padre: US-30274
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08
-
-## Objetivo
-
-Validar, como línea base, que con un volumen pequeño de Registros de Tiempo la visualización del historial se carga cómodamente dentro del umbral de 2 segundos establecido por el criterio.
 
 ## Precondiciones
 

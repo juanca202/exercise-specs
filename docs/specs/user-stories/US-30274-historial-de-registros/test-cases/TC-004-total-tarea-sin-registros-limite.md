@@ -1,4 +1,4 @@
-# TC-004 — Total acumulado de una Tarea sin Registros de Tiempo
+# TC-004 — Dado que la Tarea "Investigación" no tiene ningún Registro de Tiempo asociado, Cuando el sistema calcula el total acumulado por Tarea, Entonces muestra "0h" para esa Tarea sin errores
 
 Tipo: Límite
 Prioridad: Baja
@@ -7,10 +7,6 @@ Artefacto padre: US-30274
 Estado: Ready
 Creado por: juanca202
 Fecha: 2026-07-08
-
-## Objetivo
-
-Validar el caso límite de una Tarea existente que aún no tiene ningún Registro de Tiempo asociado, para confirmar que su total se muestra como cero en lugar de omitirse o producir un error.
 
 ## Precondiciones
 
