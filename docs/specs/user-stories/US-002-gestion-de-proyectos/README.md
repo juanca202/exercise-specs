@@ -17,16 +17,21 @@ Un Proyecto es una agrupación lógica de Tareas relacionadas y puede contener m
 ## Referencias
 
 - **Especificación de origen:** [SRS-001: Time Tracker](../../../requirements/SRS-001-timetracker-app/README.md)
-- **Diseño / prototipo (alta fidelidad) — Proyectos:** [Figma — Proyectos](https://www.figma.com/design/K6uQLWg82KsCSpHJVXSf6L/Sin-t%C3%ADtulo?node-id=1-1571)
-- **Diseño / prototipo (alta fidelidad) — Modal Nuevo Proyecto:** [Figma — Proyectos / Diálogo Nuevo proyecto](https://www.figma.com/design/K6uQLWg82KsCSpHJVXSf6L/Sin-t%C3%ADtulo?node-id=1-1642)
+- **Diseño / prototipo (alta fidelidad) — Proyectos:** [Figma — Proyectos](https://www.figma.com/design/K6uQLWg82KsCSpHJVXSf6L/exercise-time-tracker?node-id=1-1571)
+- **Diseño / prototipo (alta fidelidad) — Modal Nuevo Proyecto:** [Figma — Proyectos / Diálogo Nuevo proyecto](https://www.figma.com/design/K6uQLWg82KsCSpHJVXSf6L/exercise-time-tracker?node-id=1-1642)
 
 ## Criterios de aceptación
 
 - **AC-001 (Casos de uso):** El sistema DEBE permitir al usuario crear un nuevo Proyecto ingresando un Nombre (obligatorio) y una Descripción (opcional).
+  Casos de prueba: [TC-001](./test-cases/TC-001-crear-proyecto-nombre-descripcion-happy.md) · [TC-002](./test-cases/TC-002-crear-proyecto-solo-nombre-happy.md) · [TC-003](./test-cases/TC-003-crear-proyecto-sin-nombre-error.md)
 - **AC-002 (Procesamiento de datos):** El sistema DEBE almacenar los datos del Proyecto en el almacenamiento local del dispositivo.
+  Casos de prueba: [TC-004](./test-cases/TC-004-almacenamiento-local-proyecto-happy.md)
 - **AC-003 (Interacción de usuario):** La interfaz DEBE listar los Proyectos existentes en tarjetas que muestren Nombre, Descripción y Tiempo Registrado, conforme al prototipo de alta fidelidad.
+  Casos de prueba: [TC-005](./test-cases/TC-005-listado-proyectos-tarjetas-happy.md) · [TC-006](./test-cases/TC-006-listado-proyectos-vacio-limite.md)
 - **AC-004 (Interacción de usuario):** La interfaz DEBE ofrecer una acción visible ("Nuevo Proyecto" / "Crear Nuevo Proyecto") para iniciar la creación de un Proyecto.
+  Casos de prueba: [TC-007](./test-cases/TC-007-accion-nuevo-proyecto-happy.md)
 - **AC-005 (Salidas del sistema):** El sistema DEBE calcular y mostrar el tiempo total registrado por Proyecto como la suma de los tiempos de sus Tareas.
+  Casos de prueba: [TC-008](./test-cases/TC-008-tiempo-total-proyecto-suma-tareas-happy.md) · [TC-009](./test-cases/TC-009-tiempo-total-proyecto-sin-tareas-limite.md)
 
 ---
 

@@ -17,17 +17,24 @@ Esta historia cubre exclusivamente la visualización del historial y los totales
 ## Referencias
 
 - **Especificación de origen:** [SRS-001: Time Tracker](../../../requirements/SRS-001-timetracker-app/README.md)
-- **Diseño / prototipo (alta fidelidad) — Historial de registros:** [Figma — Historial de registros](https://www.figma.com/design/K6uQLWg82KsCSpHJVXSf6L/Sin-t%C3%ADtulo?node-id=1-1740)
+- **Diseño / prototipo (alta fidelidad) — Historial de registros:** [Figma — Historial de registros](https://www.figma.com/design/K6uQLWg82KsCSpHJVXSf6L/exercise-time-tracker?node-id=1-1740)
 
 ## Criterios de aceptación
 
 - **AC-001 (Casos de uso):** El sistema DEBE leer y mostrar en la interfaz el historial de todos los Registros de Tiempo.
+  Casos de prueba: [TC-001](./test-cases/TC-001-historial-registros-happy.md) · [TC-002](./test-cases/TC-002-historial-vacio-limite.md)
 - **AC-002 (Salidas del sistema):** El sistema DEBE calcular y mostrar el total de tiempo acumulado por Tarea.
+  Casos de prueba: [TC-003](./test-cases/TC-003-total-por-tarea-happy.md) · [TC-004](./test-cases/TC-004-total-tarea-sin-registros-limite.md)
 - **AC-003 (Salidas del sistema):** El sistema DEBE calcular y mostrar el total de tiempo acumulado por Proyecto dentro del periodo seleccionado.
+  Casos de prueba: [TC-005](./test-cases/TC-005-total-por-proyecto-happy.md) · [TC-006](./test-cases/TC-006-total-proyecto-sin-registros-periodo-limite.md)
 - **AC-004 (Salidas del sistema):** El sistema DEBE calcular y mostrar el total de tiempo acumulado por mes, permitiendo navegar entre periodos (mes anterior / mes siguiente).
+  Casos de prueba: [TC-007](./test-cases/TC-007-mes-actual-happy.md) · [TC-008](./test-cases/TC-008-navegacion-mes-anterior-siguiente-happy.md) · [TC-009](./test-cases/TC-009-mes-sin-registros-limite.md)
 - **AC-005 (Interacción de usuario):** La interfaz DEBE listar cada Registro de Tiempo con Fecha, Proyecto, Tarea y Duración, conforme al prototipo de alta fidelidad.
+  Casos de prueba: [TC-010](./test-cases/TC-010-listado-registro-campos-happy.md) · [TC-011](./test-cases/TC-011-duracion-minima-registro-limite.md)
 - **AC-006 (Interacción de usuario):** La interfaz DEBE mostrar un resumen del periodo seleccionado con el total de registros encontrados, la cantidad de proyectos involucrados y el total de horas.
+  Casos de prueba: [TC-012](./test-cases/TC-012-resumen-periodo-happy.md) · [TC-013](./test-cases/TC-013-resumen-periodo-sin-registros-limite.md)
 - **AC-007 (Eficiencia de rendimiento):** La visualización del historial DEBE cargarse en menos de 2 segundos para un volumen de hasta 1000 Registros de Tiempo.
+  Casos de prueba: [TC-014](./test-cases/TC-014-carga-volumen-pequeno-happy.md) · [TC-015](./test-cases/TC-015-carga-1000-registros-limite.md)
 
 ---
 
